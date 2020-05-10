@@ -1,5 +1,5 @@
 # Springer Free ebooks 
-These are the Computer Science and Mathematics books provided by Springer. This only for educational purpose. To download all of the provided Springer books you may follow scripts to download  [here](https://github.com/alexgand/springer_free_books). This includes 400+ pdfs and epubs of about 14 GB and you can also download specific books. 
+These are the Computer Science and Mathematics books provided by Springer. This is  only for educational purpose. To download all of the provided Springer books you may follow scripts to download  [here](https://github.com/alexgand/springer_free_books). This includes 400+ pdfs and epubs of about 14 GB and you can also download specific books. 
 
 ## Usage
 Download Directly in pdf format.
